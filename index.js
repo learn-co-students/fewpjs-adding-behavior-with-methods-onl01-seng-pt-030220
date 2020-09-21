@@ -33,7 +33,6 @@ class Bird{
    }
 
    speak(){
-     //return `${this.name} says squawk!`
         if (this.name === "Pablo" ){
           return  `It's me! ${this.name}, the parrot!`
         }else{
