@@ -40,8 +40,8 @@ class Bird{
 };
 
 
-let me = new Bird('marcos', 'male')
-let her = new Bird('vanessa', 'female')
 
-console.log(me.speak())
-console.log(her.speak())
+
+
+
+
